@@ -13,8 +13,14 @@ Make sure [just](https://www.github.com/casey/just) and Odin are installed.
 
 Then clone and run using:
 
-```
+```bash
 git clone https://github.com/pes18fan/pong.git
 cd pong
 just
+```
+
+If you don't have just, then run it straight from Odin:
+
+```bash
+odin run pong/
 ```
