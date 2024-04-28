@@ -3,6 +3,8 @@
 Basic pong game made to learn some Raylib. Written while following
 [this tutorial](https://www.youtube.com/watch?v=VLJlTaFvHo4).
 
+<img src="./assets/pong.png" alt="Image of the pong game running" />
+
 ## Running
 
 This has only been tested on Windows, but may also work on other platforms.
