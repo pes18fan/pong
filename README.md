@@ -22,5 +22,5 @@ just
 If you don't have just, then run it straight from Odin:
 
 ```bash
-odin run pong/
+odin run pong/ # From the repo's root dir
 ```
