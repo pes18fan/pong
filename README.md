@@ -7,7 +7,8 @@ Basic pong game made to learn some Raylib. Written while following
 
 ## Running
 
-This has only been tested on Windows, but may also work on other platforms.
+This has only been tested on Windows and Arch Linux, but should also work on other
+platforms. However, the build scripts written with just only work on Windows.
 
 Make sure [just](https://www.github.com/casey/just) and Odin are installed.
 
@@ -19,7 +20,7 @@ cd pong
 just
 ```
 
-If you don't have just, then run it straight from Odin:
+If you don't have just or are not on Windows, then run it straight from Odin:
 
 ```bash
 odin run pong/ # From the repo's root dir
